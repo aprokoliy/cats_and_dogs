@@ -12,6 +12,5 @@ public String name;
          this.name=name;
     }
     public abstract void giveVoice();
-
     public abstract int getAge();
 }
